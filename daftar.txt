@@ -1,4 +1,4 @@
 Daftar keinginan / Harapan
-- Belajar dan Praktik sampai paham pemograman Front End dan backend
-- Membuat dan Mempuyai tim di beritacirebon.com
+- Belajar dan Praktik sampai paham pemograman Front End 
+- Mengembangkan Blog naskahkode.com
 - Menjadi Programmer Senior
